@@ -5,3 +5,5 @@ calls.0
 calls
 getuserinput.o
 getuserinput
+subroutine
+subroutine.o
